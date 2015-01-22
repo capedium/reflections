@@ -10,3 +10,11 @@ What value do you think it offers?
 	The staging area contains part of the files in the working directory. It 
 	provides a buffer area before committing to allow us to organize all the 
 	files we want to save into the next version of our project files.
+
+How can you use the staging area to make sure you have one commit per logical 
+change?
+
+	Just put all the files related to a single logical change in the staging
+	area, and double check using "git diff" and "git diff --staged" before 
+	issuing the commit.
+
