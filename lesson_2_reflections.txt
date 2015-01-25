@@ -18,3 +18,8 @@ change?
 	area, and double check using "git diff" and "git diff --staged" before 
 	issuing the commit.
 
+What are some situations when branches would be helpful in keeping your history
+orginazed? How would branches help?
+
+	I don't know.
+
